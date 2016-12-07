@@ -350,7 +350,7 @@ img:not([draggable]), embed, object, video{
    ============================== */
 
 body{
-	color: #111;
+	color: #cd1719;
 	font-size: 14px;
 	font-family: "Open Sans", arial, sans-serif;
 	line-height: 1.6;	
@@ -468,7 +468,7 @@ hr.black{
 .text h4,
 .text h5,
 .text h6{
-	color: #111;
+	color: #cd1719;
 }
 
 .dropcap{
@@ -2668,7 +2668,7 @@ a.logo:hover{
 .section-title {
     margin-bottom: 15px;
     font-size: 18px;
-    font-weight: 400;
+    font-weight: 800;
     text-transform: uppercase;
     text-align: center;
     letter-spacing: 0.5em;
@@ -2676,9 +2676,9 @@ a.logo:hover{
 }
 .section-more{
     margin-top: 7px;
-    color: #999;
-    font-size: 11px;
-    font-weight: 400;
+    color: #cd1719;
+    font-size: 14px;
+    font-weight: 800;
     letter-spacing: 0.4em;
     text-decoration: none;
     
